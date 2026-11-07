@@ -39,6 +39,9 @@ streamlit run app.py
 └── .streamlit/config.toml
 ```
 
+## Live dashboard
+https://palo-alto-career-analytics.streamlit.app
+
 ## Key findings
 - **25 %** of employees fall in the High promotion-gap band; Managers and Research Directors stagnate the most.
 - The **Promotion-Stalled** cluster (avg 4.3 yrs since promotion, gap ratio 0.86) has **19 %** attrition vs **6 %** for Stable Long-Term Contributors.
