@@ -1,6 +1,6 @@
 # Career Progression & Promotion Gap Analysis for Retention Optimization — Palo Alto Networks
 
-**Author:** Thota Sathwika · B.Tech CSE, B V Raju Institute of Technology · Unified Mentor Internship (2026-27)
+**Author:** Thota Sathwika
 
 Traditional attrition models tell HR *who* might leave. This project explains *why* — by finding
 employees stuck in **promotion gaps**, **role stagnation**, **low training** and **weak manager continuity**,
